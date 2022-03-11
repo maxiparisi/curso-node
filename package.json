@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar en archivo de texto",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app1 --base=3"
+  },
+  "author": "Maxi Parisi",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
